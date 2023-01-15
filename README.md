@@ -1,6 +1,9 @@
 PROJECT TITLE:<br>
 Fake News Classifier
 
+SKILLS:<br>
+In this project I demonstrate the knowledge and understanding of building Deep Neural Network models using keras for Natural Language Processing. 
+
 <details>
 <summary>ABOUT ME</summary>
 I am Arsh Singh, my PhD is in Applied Microeconomics, and I am interested in applied data science.
@@ -22,9 +25,6 @@ WELFake Data Set consists of 72,134 news articles with 35,028 real and 37,106 fa
 DATA SOURCE:<br>
 Dataset originally compiled by <a href="https://ieeexplore.ieee.org/document/9395133">P. K. Verma, P. Agrawal, I. Amorim and R. Prodan, "WELFake: Word Embedding Over Linguistic Features for Fake News Detection," in IEEE Transactions on Computational Social Systems, vol. 8, no. 4, pp. 881-893, Aug. 2021, doi: 10.1109/TCSS.2021.3068519.</a>
  
-
-SKILLS:<br>
-In this project I demonstrate the knowledge and understanding of building Deep Neural Network models using keras for Natural Language Processing. 
 
 MAIN RESULT:<br>
 I am able to classify fake news with 97% accuracy using my model.
