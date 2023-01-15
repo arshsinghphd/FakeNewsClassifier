@@ -10,7 +10,7 @@ I am Arsh Singh, my PhD is in Applied Microeconomics, and I am interested in app
 </details>
 
 GOAL:<br>
-I am testing a deep neural network model using keras for processing news text data (NLP).
+I am testing an artificial neural network model using keras for processing news text data (NLP).
 
 DATA:<br>
 WELFake Data Set consists of 72,134 news articles with 35,028 real and 37,106 fake news. For this, authors merged four popular news datasets (i.e. Kaggle, McIntire, Reuters, BuzzFeed Political) to prevent over-fitting of classifiers and to provide more text data for better ML training. <br>
