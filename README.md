@@ -2,7 +2,7 @@ PROJECT TITLE:<br>
 Fake News Classifier
 
 SKILLS:<br>
-In this project I demonstrate the knowledge and understanding of building Deep Neural Network models using keras for Natural Language Processing. 
+In this project I demonstrate the knowledge and understanding of *Deep Learning* using *Artificial Neural Network* models using *keras* for *Natural Language Processing*. 
 
 <details>
 <summary>ABOUT ME</summary>
